@@ -1,0 +1,30 @@
+_repo: Tintinnalogia-or-the-Art-of-Ringing--13-Wherein-is-laid-down-plain-and-easie-Rules-for-Ringin__18567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stedman, Fabian
+    deathdate: 1713
+    gutenberg_agent_id: '8117'
+    url: http://www.gutenberg.org/2009/agents/8117
+  - agent_name: Duckworth, Richard
+    gutenberg_agent_id: '8116'
+    url: http://www.gutenberg.org/2009/agents/8116
+description: ''
+gutenberg_issued: '2006-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bells'
+- !lcsh 'Change ringing'
+- !lcc 'MT'
+title: "Tintinnalogia, or, the Art of Ringing\r\nWherein is laid down plain and easie\
+  \ Rules for Ringing all sorts of Plain Changes"
+url: http://www.gutenberg.org/ebooks/18567
