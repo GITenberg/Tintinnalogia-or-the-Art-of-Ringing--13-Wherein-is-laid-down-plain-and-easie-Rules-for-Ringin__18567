@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '8116'
     url: http://www.gutenberg.org/2009/agents/8116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18567#Tintinnalogia-or-the-Art-of-Ringing--13-Wherein-is-laid-down-plain-and-easie-Rules-for-Ringin_
 gutenberg_issued: '2006-06-12'
 gutenberg_type: Text
 identifiers:
